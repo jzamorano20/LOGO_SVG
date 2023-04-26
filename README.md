@@ -39,3 +39,7 @@ One you launch those commands and you answer the questions youll be presented wi
 ![this is a screenshot of the test passing in the terminal](./assets/TEST.png)
 ![this is a screenshot of the inquirer questions answered and logo created](./assets/NPM_START.png)
 ![this is a screenshot of the created SVG img](./assets/SVG_IMG.png)
+
+
+## Walk through video
+https://drive.google.com/file/d/1zNElW343mCKejA-h7IfNNllmACBD-GFo/view
